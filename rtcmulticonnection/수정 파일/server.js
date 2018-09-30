@@ -4,7 +4,7 @@
 
 /* 
 //* modifier
-https://github.com/LeeInHaeng
+https://github.com/LeeInHaeng/
 
 //* modified context
 현재 운영중인 서버의 환경에 맞게 일부 코드 추가
