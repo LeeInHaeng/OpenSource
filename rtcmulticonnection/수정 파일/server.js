@@ -3,15 +3,15 @@
 // Documentation  - github.com/muaz-khan/RTCMultiConnection
 
 /* 
+//* modifier
+https://github.com/LeeInHaeng
+
 //* modified context
 현재 운영중인 서버의 환경에 맞게 일부 코드 추가
 - SSL : certbot을 사용중인 환경에 맞게 key가 있는 경로 추가 (74~78)
 - socket.io.js : https://www.oddidea.xyz:9001/socket.io/socket.io.js 경로에 socket.io.js 파일 접근 가능 시
                  서버가 동작되도록 수정 (284~290)
                  
-//* author
-https://github.com/LeeInHaeng
-
 //* modified date
 2018-09-26
 */

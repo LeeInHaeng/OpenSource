@@ -35,7 +35,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 */
 
 /**
- * @author https://github.com/LeeInHaeng/
+ * modifier https://github.com/LeeInHaeng/
  
  * modified context
  
